@@ -23,3 +23,5 @@ navbar:
   right:
     - icon: fa-slack fa-lg
       href: https://2018-fall-sds-albert.slack.com/
+    - icon: fas fa-baseball-ball
+      href: https://fontawesome.com/icons/baseball-ball?style=solid
