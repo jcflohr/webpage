@@ -20,8 +20,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Hello"
-      href: hello.html
   right:
     - icon: fa-slack fa-lg
       href: https://2018-fall-sds-albert.slack.com/

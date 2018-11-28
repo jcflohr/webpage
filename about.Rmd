@@ -10,7 +10,7 @@ output:
     df_print: kable
 ---
 
-More about this website; it's pretty empty!
+More about this website. It's empty!
 
 # Section name
 
