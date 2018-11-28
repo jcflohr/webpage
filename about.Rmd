@@ -1,6 +1,6 @@
 ---
 title: "About This Website"
-author: "Your name"
+author: "Jessica Flohr"
 date: "Last updated on `r Sys.Date()`"
 output:
   html_document:
@@ -10,7 +10,7 @@ output:
     df_print: kable
 ---
 
-More about this website.
+More about this website; it's pretty empty!
 
 # Section name
 
